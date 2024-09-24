@@ -1,9 +1,9 @@
-# Neural Networks with PyTorch
+# Intorduction to Machine Learning and Neural Networks with PyTorch
 
 - Author: Evi Ofekeze, Ibrahim Alabi 
 
 
-Welcome to the **Introduction Machine Learning and Neural Networks with PyTorch** tutorial! In this session, we'll explore the basics of neural networks and how to implement them using PyTorch, a popular deep learning framework. The goal is to help you get acquainted with the fundamental concepts of neural networks and give you some **hands-on** experience with PyTorch. Whether you're new to neural networks or looking to refresh your knowledge, this tutorial is designed to guide you through the key ideas at a comfortable pace.
+Welcome to the **Introduction to Machine Learning and Neural Networks with PyTorch** tutorial! In this session, we'll explore the basics of neural networks and how to implement them using PyTorch, a popular deep learning framework. The goal is to help you get acquainted with the fundamental concepts of neural networks and give you some **hands-on** experience with PyTorch. Whether you're new to neural networks or looking to refresh your knowledge, this tutorial is designed to guide you through the key ideas at a comfortable pace.
 
 ```{note} ## Learning Objectives
 
